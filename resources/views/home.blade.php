@@ -3,14 +3,14 @@
 @section('content')
     <div class="card mb-4">
         <div class="card-header">
-            {{ __('Anggota Kelompok') }}
+            {{ __('KELOMPOK 1') }}
         </div>
         <div class="card-body">
             {{ __('Final Pemrograman WEB 2!') }}
         </div>
     </div>
     <h1></h1>
-    <h2><center>KELOMPOK 1 </center></h2>
+    <h2><center>Anggota Kelompok</center></h2>
     <img src="{{ asset('img/aiii.jpg') }}" width ="200" height="250"> 
     <br>
     <p>Nur Aisya Heri</p>
